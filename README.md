@@ -36,15 +36,15 @@ npm run dev
 
 ### 🏠 Home Page
 
-![Home](./screenshots/home.png)
+![Home](Sreenshots\2026-03-31 (1).png)
 
 ### 🖼️ Gallery Section
 
-![Gallery](./screenshots/gallery.png)
+![Gallery](.\Sreenshots\2026-03-31 (2).png)
 
 ### ♾️ Infinite Scroll
 
-![Infinite](./screenshots/infinite.png)
+![Infinite](Sreenshots\2026-03-31 (3).png)
 
 ## 📌 About Project
 
