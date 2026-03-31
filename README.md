@@ -40,7 +40,7 @@ npm run dev
 
 ### 🖼️ Gallery Section
 
-![Gallery](.\Sreenshots\2026-03-31 (2).png)
+![Gallery](Sreenshots\2026-03-31 (2).png)
 
 ### ♾️ Infinite Scroll
 
