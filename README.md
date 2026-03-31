@@ -1,53 +1,61 @@
 # 🖼️ React API Image Gallery
 
-A responsive image gallery built using React that fetches images from an external API and displays them with pagination.
+A modern and responsive image gallery built using React, TailwindCSS, and external API integration.
 
 ## 🚀 Features
 
-- 🌐 Fetch images from API (Picsum)
+- 🌐 Fetch images from Picsum API
 - 📄 Pagination (Next / Prev)
-- ⚡ Fast performance with Vite
-- 🎨 Styled using TailwindCSS
-- 📱 Fully responsive UI
+- ♾️ Infinite Scroll page
+- 🎨 Clean UI with TailwindCSS
+- ⚡ Fast performance using Vite
+- 🔗 Click image to open original
 
 ## 🛠️ Tech Stack
 
 - React
 - Vite
 - TailwindCSS
-- Axios (API calls)
+- Axios
+- React Router
 
-## 📂 Project Structure
+## 📂 Pages
 
-```id="g12xk9"
-src/
-public/
-package.json
-tailwind.config.js
-vite.config.js
-```
+- 🏠 Home Page (Landing UI)
+- 🖼️ Gallery Section (Pagination)
+- ♾️ Infinite Scroll Page
 
 ## ▶️ Run Locally
 
-```bash id="m9s8dj"
+```bash
 npm install
 npm run dev
 ```
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home](./screenshots/home.png)
+
+### 🖼️ Gallery Section
+
+![Gallery](./screenshots/gallery.png)
+
+### ♾️ Infinite Scroll
+
+![Infinite](./screenshots/infinite.png)
+
 ## 📌 About Project
 
-This project demonstrates how to fetch and display images from an API using React Hooks. It includes pagination functionality for better user experience.
+This project demonstrates API integration, pagination, and infinite scrolling using React Hooks. It focuses on performance and clean UI design.
 
 ## 🔮 Future Improvements
 
 - 🔍 Search images
-- ❤️ Favorite images
-- ♾️ Infinite scroll
+- ❤️ Favorite system
 - 🌙 Dark mode
-
-## 📸 Screenshot
-
-![App Screenshot](./screenshot.png)
+- 📥 Download images
 
 ## 👨‍💻 Author
 
